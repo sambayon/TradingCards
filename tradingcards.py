@@ -9,6 +9,7 @@ def crear_album(figus_total):
         i = i + 1
     return album
 
+"""Suppose we buy individual single trading cards"""
 def hay_alguno(lista, elem):
     i = 0
     hay_alguno = False
